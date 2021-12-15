@@ -26,6 +26,10 @@ This project built my knowledge of DOM Manipulation and provided experience of m
 
 <br>
 
+**Initial version:** https://web-platform-pdmpzq.stackblitz.io
+
+**Final version** (link to be added shortly):
+
 ![codename-validator-cover](https://user-images.githubusercontent.com/63753021/146103793-aab38041-dd18-4d23-bccf-cc67c1bba807.jpg)
 
 <br>
