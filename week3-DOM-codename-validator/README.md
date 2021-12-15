@@ -1,9 +1,7 @@
-# Week 3: DOM Manipulation
+# [Week 3: DOM Manipulation](https://learn.foundersandcoders.com/course/application/dom/)
 ## Codename validator
 
 This project built my knowledge of DOM Manipulation and provided experience of managing input from a user, by creating a _Codename Validator_.
-<br>
-(https://learn.foundersandcoders.com/course/application/dom/)
 
 ### Requirements
 
