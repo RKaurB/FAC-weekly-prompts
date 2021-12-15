@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+
+  <head>
+
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Codename Validator</title>
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+    <div class="title-pic">
+      <h1>Codename Validator</h1>
+      <img id="img" src="./lockpic1d.jpeg" alt="">
+    </div>
+
+    <br>
+
+    <div class="form">
+      <form action="">
+      <label for="codeName">Enter codename:&nbsp;</label>
+      <br>
+      <br>
+      <input type="text" name="codeName" id="codeName" placeholder="Type here..." value="" required>
+      <button id="submit" type="submit">Submit</button>
+      </form>
+    </div>
+
+    <div id="feedback-box">
+      <p id="feedback"></p>
+    </div>
+
+    <div class="message"></div>
+    <h4>Must contain at least:</h4>
+      <p id="length">6 characters</p>
+      <p id="nums">2 numbers</p>
+      <p id="lowercase">1 lowercase letter</p>
+      <p id="uppercase">1 uppercase letter</p>
+    </div>
+
+  </div>
+
+    <script src="script.js"></script>
+
+  </body>
+
+</html>
