@@ -1,0 +1,66 @@
+body {
+    /* background: rgb(184, 243, 245); */
+    background: rgb(223, 239, 240);
+    color: black;
+    text-align: center;
+    font-family: monospace;
+  }
+
+#img {
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 10px;
+}
+
+label {
+  font-weight:bold;
+  font-family: monospace;
+  font-size: large;
+}
+
+#codeName {
+  /* display: block */
+  background-color: rgb(245, 244, 190);
+  border-color: black;
+  border-width: 1.5px;
+  border-style: solid;
+  border-radius: 5px;
+  font-family: monospace;
+}
+
+#submit {
+  background-color: rgb(252, 200, 103);
+  border-color: black;
+  border-width: 1.5px;
+  border-style: solid;
+  border-radius: 5px;
+  font-family: monospace;
+  transition-duration: 0.4s;
+}
+
+#submit:hover {
+  /* background-color: rgb(145, 97, 9); */
+  background-color: rgb(148, 155, 161);
+  color: white
+}
+
+#feedback {
+  font-size: large;
+  /* font-style: bold; */
+  font-weight: bold;
+}
+
+.message {
+  display:none;
+  background: #f1f1f1;
+  color: #000;
+  position: relative;
+  padding: 20px;
+  margin-top: 10px;
+}
+
+.message, p {
+  padding: 2px 20px;
+  font-size: 10px;
+}
